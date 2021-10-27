@@ -155,4 +155,7 @@ var ary_CharacterData = [
   [1, "Unfair game",                [0,0,0,0,0,0,0,0,1], "BMA/YOLO.jpg"],
   [1, "matchless GUM",              [0,0,0,0,0,0,0,0,1], "BMA/YOLO.jpg"],
   [1, "Don't be Long",              [0,0,0,0,0,0,0,0,1], "BMA/Different.jpg"],
+  [1, "Sense",                      [0,0,0,0,0,0,0,0,1], "BMA/Sense.jpg"],
+  [1, "Hibana",                     [0,0,0,0,0,0,0,0,1], "BMA/Sense.jpg"],
+  [1, "Corallium",                  [0,0,0,0,0,0,0,0,1], "BMA/Sense.jpg"],
  ];
