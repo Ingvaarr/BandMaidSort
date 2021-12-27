@@ -146,7 +146,7 @@ var ary_CharacterData = [
   
   [1, "Onset",                      [0,0,0,0,0,0,0,0,1], "BMA/SOTA.jpg"],
   [1, "Choose Me",                  [0,0,0,0,0,0,0,0,1], "BMA/CM.jpg"],
-  [1, "hide-and-seek",              [0,0,0,0,0,0,0,0,1], "BMA/HNS.jpg"],
+  [1, "hide-and-seek",              [0,0,0,0,0,0,0,0,1], "BMA/GLORY.jpg"],
   [1, "Smile",                      [0,0,0,0,0,0,0,0,1], "BMA/Smile.jpg"],
   [1, "Screaming",                  [0,0,0,0,0,0,0,0,1], "BMA/Screaming.jpg"],
   [1, "About Us",                   [0,0,0,0,0,0,0,0,1], "BMA/About.jpg"],
