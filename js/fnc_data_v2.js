@@ -170,7 +170,7 @@ var ary_CharacterData = [
   [1, "Sayonakidori(Acoustic)",               [0,0,0,0,0,0,0,0,1], "BMA/Acoustic.jpg"],
   [1, "FORWARD(Acoustic)",                    [0,0,0,0,0,0,0,0,1], "BMA/Acoustic.jpg"],
   [1, "Catharsis(Acoustic)",                  [0,0,0,0,0,0,0,0,1], "BMA/Acoustic.jpg"],
-  [1, "Mirage(Acoustic)",                     [0,0,0,0,0,0,0,0,1], "BMA/Acousticjpg"],
+  [1, "Mirage(Acoustic)",                     [0,0,0,0,0,0,0,0,1], "BMA/Acoustic.jpg"],
   [1, "Love, Passion, Matador(Acoustic)",     [0,0,0,0,0,0,0,0,1], "BMA/FES.jpg"],
   [1, "夜明け前(Before Dawn)(Acoustic)",       [0,0,0,0,0,0,0,0,1], "BMA/FES.jpg"],
   [1, "Thrill(Acoustic)",                     [0,0,0,0,0,0,0,0,1], "BMA/FES.jpg"],
