@@ -35,8 +35,7 @@ var ary_TitleData = [
   "CONQUEROR",
   "Unseen World",
   "BAND-MAIKO",
-  "Singles(things not on albums)"  
-  "Acoustics"
+  "Singles(stuff not on albums)"  
 ];
 
 // * キャラクター情報（編集可能。最後の行に”,”を付けないようにしてください）
