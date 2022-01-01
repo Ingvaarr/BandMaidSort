@@ -44,7 +44,7 @@ var ary_TitleData = [
 //   "タイトルID"（先頭から0, 1, 2...）, 
 //   {タイトル別参加フラグ}（1を入れると対象タイトルに入ります）,
 //   "キャラクター名", "画像（空白の場合、キャラクター名が使用されます）"
-//                                      [1,2,3,4,5,6,7,8,9,10
+//                                      [1,2,3,4,5,6,7,8,9,
 var ary_CharacterData = [
   [1, "Be OK",                      [1,0,0], "BMA/MID.jpg"],
   [1, "EverGreen",                  [1,0,0], "BMA/MID.jpg"],
@@ -159,24 +159,4 @@ var ary_CharacterData = [
   [1, "Sense",                      [0,0,0,0,0,0,0,0,1], "BMA/Sense.jpg"],
   [1, "Hibana",                     [0,0,0,0,0,0,0,0,1], "BMA/Sense.jpg"],
   [1, "Corallium",                  [0,0,0,0,0,0,0,0,1], "BMA/Sense.jpg"],
-  
-  [1, "Smile(Acoustic)",                      [0,0,0,0,0,0,0,0,0,1], "BMA/Acoustic.jpg"],
-  [1, "At the drop of a hat(Acoustic)",       [0,0,0,0,0,0,0,0,0,1], "BMA/Acoustic.jpg"],
-  [1, "NO GOD(Acoustic)",                     [0,0,0,0,0,0,0,0,0,1], "BMA/Acoustic.jpg"],
-  [1, "H-G-K(Acoustic)",                      [0,0,0,0,0,0,0,0,0,1], "BMA/Acoustic.jpg"],
-  [1, "Different(Acoustic)",                  [0,0,0,0,0,0,0,0,0,1], "BMA/Acoustic.jpg"],
-  [1, "Manners(Acoustic)",                    [0,0,0,0,0,0,0,0,0,1], "BMA/Acoustic.jpg"],
-  [1, "Awkward(Acoustic)",                    [0,0,0,0,0,0,0,0,0,1], "BMA/Acoustic.jpg"],
-  [1, "Wonderland(Acoustic)",                 [0,0,0,0,0,0,0,0,0,1], "BMA/Acoustic.jpg"],
-  [1, "Time(Acoustic)",                       [0,0,0,0,0,0,0,0,0,1], "BMA/Acoustic.jpg"],
-  [1, "Sayonakidori(Acoustic)",               [0,0,0,0,0,0,0,0,0,1], "BMA/Acoustic.jpg"],
-  [1, "FORWARD(Acoustic)",                    [0,0,0,0,0,0,0,0,0,1], "BMA/Acoustic.jpg"],
-  [1, "Catharsis(Acoustic)",                  [0,0,0,0,0,0,0,0,0,1], "BMA/Acoustic.jpg"],
-  [1, "Mirage(Acoustic)",                     [0,0,0,0,0,0,0,0,0,1], "BMA/Acousticjpg"],
-  [1, "Love, Passion, Matador(Acoustic)",     [0,0,0,0,0,0,0,0,0,1], "BMA/FES.jpg"],
-  [1, "夜明け前(Before Dawn)(Acoustic)",       [0,0,0,0,0,0,0,0,0,1], "BMA/FES.jpg"],
-  [1, "Thrill(Acoustic)",                     [0,0,0,0,0,0,0,0,0,1], "BMA/FES.jpg"],
-  [1, "Knockin' on your heart(Acoustic)",     [0,0,0,0,0,0,0,0,0,1], "BMA/FES.jpg"],
-  [1, "anemone(Acoustic)",                    [0,0,0,0,0,0,0,0,0,1], "BMA/ZEPP.jpg"],
-  [1, "Puzzle(Acoustic)",                     [0,0,0,0,0,0,0,0,0,1], "BMA/ZEPP.jpg"],
  ];
