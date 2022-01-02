@@ -22,7 +22,7 @@ var bln_ResultStyle = 0;
 var bln_ProgessBar = 1;
 
 // Maximum number of result rows before being broken off into another table.
-var maxRows = 20;
+var maxRows = 25;
 
 // * タイトル情報（編集可能。最後の行に”,”を付けないようにしてください）
 var int_Colspan = 3;
@@ -173,6 +173,7 @@ var ary_CharacterData = [
   [1, "FORWARD(Acoustic)",                    [0,0,0,0,0,0,0,0,0,1], "BMA/Acoustic.jpg"],
   [1, "Catharsis(Acoustic)",                  [0,0,0,0,0,0,0,0,0,1], "BMA/Acoustic.jpg"],
   [1, "Mirage(Acoustic)",                     [0,0,0,0,0,0,0,0,0,1], "BMA/Acoustic.jpg"],
+  [1, "Bitter Sweet Love(Acoustic)",          [0,0,0,0,0,0,0,0,0,1], "BMA/FES.jpg"],
   [1, "Love, Passion, Matador(Acoustic)",     [0,0,0,0,0,0,0,0,0,1], "BMA/FES.jpg"],
   [1, "夜明け前(Before Dawn)(Acoustic)",       [0,0,0,0,0,0,0,0,0,1], "BMA/FES.jpg"],
   [1, "Thrill(Acoustic)",                     [0,0,0,0,0,0,0,0,0,1], "BMA/FES.jpg"],
