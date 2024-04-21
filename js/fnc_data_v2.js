@@ -169,6 +169,7 @@ var ary_CharacterData = [
   [1, "Hibana",                     [0,0,0,0,0,0,0,0,0,1], "BMA/Sense.jpg"],
   [1, "Memorable",                  [0,0,0,0,0,0,0,0,0,1], "BMA/Memorable.jpg"],
   [1, "Shambles",                   [0,0,0,0,0,0,0,0,0,1], "BMA/Shambles.jpg"],
+  [1, "Bestie",                     [0,0,0,0,0,0,0,0,0,1], "BMA/Bestie.png"],
     
   [1, "Smile(Acoustic)",                      [0,0,0,0,0,0,0,0,0,0,1], "BMA/Acoustic.jpg"],
   [1, "At the drop of a hat(Acoustic)",       [0,0,0,0,0,0,0,0,0,0,1], "BMA/Acoustic.jpg"],
